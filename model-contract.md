@@ -56,7 +56,7 @@ to Dropbox arising from Supplier’s inability to fix the vulnerability.
 
 ### 2.1. Transport Encryption. 
 Supplier will maintain an SSL Labs rating (please see https://www.ssllabs.com) of at least
-“A” for any internal or external website used to store or access Dropbox data. If Supplier’s rating falls below “A,”
+“A” for any external website used to store or access Dropbox data. If Supplier’s rating falls below “A,”
 Supplier will: (a) notify Dropbox if this rating is below “A” for three months; and (b) have three months from the
 date it notifies Dropbox within which to increase its rating back to an “A.”
 

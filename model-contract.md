@@ -139,7 +139,7 @@ Agreement immediately upon written notice to Supplier.
 
 “Security Incident” means any: (i) breach or suspected breach of the security of the Services or the systems used to
 provide the Services that may have resulted in the compromise of Dropbox Data; or (ii) other unauthorized access to
-or use of Dropbox Data, or Supplier&#39;s reasonable belief that access or use may have occurred.
+or use of Dropbox Data, or Supplier's reasonable belief that access or use may have occurred.
 
 “Services” means the products or services provided by Supplier to Dropbox.
 

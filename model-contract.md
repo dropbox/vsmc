@@ -81,7 +81,7 @@ suspicious or malicious activity within Supplier’s production and corporate en
 
 ### 2.6. Scanning. 
 Supplier will run regular automated scans against their internet facing perimeter, production perimeter,
-and internal network. Supplier will promptly fix high and critical severity findings.
+and internal network.
 
 ### 2.7. Environment Separation and Access. 
 Supplier will maintain a boundary between its corporate and production
